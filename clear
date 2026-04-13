@@ -1,0 +1,41 @@
+[33mcommit 90e083ed9f8c981ba6595322b4970c20ab7e927b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: LeoMart7 <lbartiliano@hotmail.com>
+Date:   Sun Apr 12 21:26:10 2026 -0300
+
+    Class Order configuration JSON
+
+[33mcommit 246383b838cd404e4db26f91e7d8528376009af5[m
+Author: LeoMart7 <lbartiliano@hotmail.com>
+Date:   Thu Apr 9 22:10:57 2026 -0300
+
+    Class Order and assoation with User
+
+[33mcommit 0fd45eab6f65ecc5e35aa7aae9e9916dc28c55a5[m
+Author: LeoMart7 <lbartiliano@hotmail.com>
+Date:   Tue Apr 7 23:33:40 2026 -0300
+
+    Service layer and Component registration
+
+[33mcommit b3d66b403d2f7d21432d6956e991d329bf52b5a2[m
+Author: LeoMart7 <lbartiliano@hotmail.com>
+Date:   Mon Apr 6 22:51:42 2026 -0300
+
+    UserRepository and TestConfig; database seeding
+
+[33mcommit 3dd9730a64b5bb0826c5c3cd98350ea61dba1510[m
+Author: LeoMart7 <lbartiliano@hotmail.com>
+Date:   Mon Mar 23 23:19:09 2026 -0300
+
+    H2 database, teste profile
+
+[33mcommit c509819ae84473eba12fc590ee9770faa5af025b[m
+Author: LeoMart7 <lbartiliano@hotmail.com>
+Date:   Mon Mar 16 23:06:39 2026 -0300
+
+    Implement User and resource
+
+[33mcommit b3d55079e71e3addc61e69120825d3fc91b211b0[m
+Author: LeoMart7 <lbartiliano@hotmail.com>
+Date:   Mon Mar 16 21:52:14 2026 -0300
+
+    Project Created
