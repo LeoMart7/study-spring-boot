@@ -16,7 +16,7 @@ import jakarta.persistence.ManyToMany;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "TB_CATEGORY")
+@Table(name = "tb_category")
 public class Category implements Serializable {
 	private static final Long serialVersionUID = 1L;
 	
@@ -46,7 +46,7 @@ public class Category implements Serializable {
 	public void setId(Long id) {
 		this.id = id;
 	}
-
+	
 	public String getName() {
 		return name;
 	}

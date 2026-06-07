@@ -15,7 +15,7 @@ import jakarta.persistence.ManyToMany;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "TB_PRODUCT")
+@Table(name = "tb_products")
 public class Product implements Serializable {
 	private static final Long serialVersionUID = 1L;
 	
